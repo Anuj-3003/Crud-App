@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Anuj"
+    },
+    {
+      "id": 2,
+      "name": "Karan"
+    },
+    {
+      "id": 3,
+      "name": "Akshat"
+    },
+    {
+      "name": "Harshit",
+      "id": 4
+    },
+    {
+      "name": "Vandan",
+      "id": 5
+    }
+  ]
+}
